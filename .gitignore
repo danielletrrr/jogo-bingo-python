@@ -1,0 +1,29 @@
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios de build
+build/
+dist/
+
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar arquivos de ambientes virtuais Python
+venv/
+.env
+
+# Ignorar arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos temporários do sistema
+*.swp
+*.tmp
+
+# Ignorar arquivos de configuração específicos de um projeto
+config.yaml
+secrets.json
